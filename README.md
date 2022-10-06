@@ -19,7 +19,8 @@ The code allows:
           - Compute the threshold that leads to the best auc, accuracy, precision, recall, f1-score, TNR
           - Display the results
 
-3. trajectory_main.py outputs the computed trajectories to the trolls (resp. users)
+3. trajectory_main.py
+          - Computed trajectories to the trolls (resp. users)
 
 Initial Trajectory Extraction Code can be found here:  https://github.com/luceriluc/Detecting-Troll-Behavior-via-Inverse-Reinforcement-Learning/
 
