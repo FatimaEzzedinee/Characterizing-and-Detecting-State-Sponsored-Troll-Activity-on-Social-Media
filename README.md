@@ -1,5 +1,4 @@
 # How-Troll-are-you-Measuring-and-Detecting-Troll-Behavior-in-Online-Social-Networks
-# Troll-Meter
 
 Code for the implementation of the approach presented in "How Troll are you Measuring and Detecting Troll Behavior in Online Social Networks?" by Fatima Ezzeddine, Luca Luceri, Omran Ayoub, Ihab Sbeity, Ginaluca Nogara, Emilio Ferrara and Silvia Giordano
 
