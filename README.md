@@ -1,6 +1,7 @@
 # How Troll are you? Measuring and Detecting Troll Behavior in Online Social Networks
 
-Code for the implementation of the approach presented in "How Troll are you? Measuring and Detecting Troll Behavior in Online Social Networks" by Fatima Ezzeddine, Luca Luceri, Omran Ayoub, Ihab Sbeity, Ginaluca Nogara, Emilio Ferrara and Silvia Giordano
+Code for the implementation of the approach presented in "How Troll are you? Measuring and Detecting Troll Behavior in Online Social Networks" by Fatima Ezzeddine, Omran Ayoub, Ihab Sbeity, Ginaluca Nogara, Emilio Ferrara, Silvia Giordano, and Luca Luceri. 
+
 
 The code is divided in three main scripts, which allow to: 
 
