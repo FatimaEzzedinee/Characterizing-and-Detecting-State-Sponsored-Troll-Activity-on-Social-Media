@@ -1,6 +1,6 @@
-# How Troll are you? Measuring and Detecting Troll Behavior in Online Social Networks
+# Characterizing and Detecting State-Sponsored Troll Activity on Social Media
 
-Code for the implementation of the approach presented in "How Troll are you? Measuring and Detecting Troll Behavior in Online Social Networks" by Fatima Ezzeddine, Omran Ayoub, Ihab Sbeity, Ginaluca Nogara, Emilio Ferrara, Silvia Giordano, and Luca Luceri. 
+Code for the implementation of the approach presented in "Characterizing and Detecting State-Sponsored Troll Activity on Social Media" by Fatima Ezzeddine, Omran Ayoub, Ihab Sbeity, Ginaluca Nogara, Emilio Ferrara, Silvia Giordano, and Luca Luceri. 
 
 
 The code is divided in three main scripts, which allow to: 
