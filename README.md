@@ -1,6 +1,6 @@
-# Characterizing and Detecting State-Sponsored Troll Activity on Social Media
+# Exposing Influence Campaigns in the Age of LLMs: A Behavioral-Based AI Approach to Detecting State-Sponsored Trolls
 
-Code for the implementation of the approach presented in "Characterizing and Detecting State-Sponsored Troll Activity on Social Media" by Fatima Ezzeddine, Omran Ayoub, Ihab Sbeity, Ginaluca Nogara, Emilio Ferrara, Silvia Giordano, and Luca Luceri. 
+Code for the implementation of the approach presented in "Exposing Influence Campaigns in the Age of LLMs: A Behavioral-Based AI Approach to Detecting State-Sponsored Trolls" by Fatima Ezzeddine, Omran Ayoub, Ihab Sbeity, Ginaluca Nogara, Emilio Ferrara, Silvia Giordano, and Luca Luceri. 
 
 
 The code is divided in three main scripts, which allow to: 
